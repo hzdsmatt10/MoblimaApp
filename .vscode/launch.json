@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Booking",
+            "request": "launch",
+            "mainClass": "control.Booking",
+            "projectName": "SC2002_24a48d79"
+        },
+        {
+            "type": "java",
+            "name": "Launch Moblima",
+            "request": "launch",
+            "mainClass": "boundary.Moblima",
+            "projectName": "SC2002_60ac6b3d",
+            "cwd": "${workspaceFolder}/src"
+        }
+    ]
+}
